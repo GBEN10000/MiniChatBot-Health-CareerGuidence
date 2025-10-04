@@ -46,7 +46,7 @@ Setup Instructions
 Clone the repository
 
 git clone https://github.com/GBEN10000/MiniChatBot-Health-CareerGuidence.git
-cd health-career-chatbot
+cd MiniChatBot-Health-CareerGuidence
 
 
 Install dependencies
